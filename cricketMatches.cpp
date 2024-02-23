@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               Assignment5.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #5
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                October 2, 2023
-//
 //     This program asks how many students were surveyed, and 
 //     how mant matches they played. Then, it dynamically allocates
 //     the array for number of students and matches played.
